@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #202225;
+  color: #ffffff;
+  font-family: Consolas, monospace;
+}
+
+#tools {
+  text-align: center;
+  background-color: #36393f;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#ati {
+  position: absolute;
+  outline: 4px solid #6a94ff;
+  pointer-events: none;
+}
+
+#tileset {
+  margin-top: 1.3rem;
+  cursor: pointer;
+  align-self: center;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+#tools p {
+  margin-top: 30px;
+  font-size: 14px;
+}
+
+#editor {
+  margin-left: 200px;
+  overflow: auto;
+}
+
+#canvas {
+  background-image: url("../img/editor_bg.png");
+}
+
+#colorPicker {
+  border: none;
+  width: 40px;
+  height: 30px;
+}
+
+.btn {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: all 200ms ease;
+  width: 125px;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+.btn:active {
+  transform: scale(1);
+}
+
+#load {
+  margin-top: 30px;
+}
+
+#generate {
+  margin-top: 20px;
+}
+
+#download {
+  margin-top: 15px;
+  text-decoration: underline;
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+#download:link {
+  color: #6a94ff;
+}
+
+#download:visited {
+  color: #6a94ff;
+}
+
+#clear {
+  position: absolute;
+  bottom: 20px;
+  opacity: 0.7;
+}
+
+#tileIndex {
+  margin-top: 10px;
+  opacity: 0.3;
+  font-size: 10px;
+}
+
+#goToGame {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  text-align: center;
+  text-decoration: none;
+}

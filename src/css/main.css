@@ -1,0 +1,82 @@
+@font-face {
+  font-family: "Dogica";
+  src: url("../fonts/dogicapixel.ttf");
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #202225;
+  margin: 0;
+  padding: 0;
+  /* background: url("../img/background.png"); */
+}
+
+#Discord {
+  font-family: Dogica;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#Discord a {
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #404eed !important;
+  border-radius: 5px;
+  word-wrap: break-word;
+  
+}
+
+#Discord-Icon {
+  width: 58px;
+  height: 58px;
+  filter: invert(100%);
+  margin-left: 10px;
+}
+
+#assets {
+  display: none;
+}
+
+#mainCanvas {
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  width: 960px;
+  height: 540px;
+}
+
+#screen {
+  width: 960px;
+  height: 540px;
+  border: 5px solid #ffffff;
+}
+
+#buttons {
+  margin-top: 20px;
+}
+
+#btnFullscreen {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+#btnEditor {
+  cursor: pointer;
+}
+map {
+  border: 5px solid #ffffff;
+}

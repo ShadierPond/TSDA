@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- IE-Compatible -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/css/editor.css" />
+    <script src="./src/js/editor.js"></script>
+    <title>T.S.D.A. - Map Editor</title>
+  </head>
+  <body>
+    <div id="tools">
+      <label for="fileInput" class="btn" id="load">Map öffnen</label>
+      <input type="file" id="fileInput" name="fileInput" />
+      <div class="btn" id="generate">Map generieren</div>
+      <a id="download">Map Download</a>
+      <img id="tileset" src="./src/img/tileset_editor.png" />
+      <div id="tileIndex">selectedTileIndex: 0</div>
+
+      <div class="btn" id="clear">Alles löschen</div>
+      <div id="ati"></div>
+    </div>
+    <div id="editor">
+      <canvas id="canvas"></canvas>
+    </div>
+    <a class="btn" id="goToGame" href="./main.html">Zum Spiel</a>
+  </body>
+</html>
