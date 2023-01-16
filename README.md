@@ -58,7 +58,7 @@ You have to activate certain screens (terminals) by pressing the “E” key.
  ![alt text](blob/Bild8.png)
 
 ## Credits
-- **Programmer:** [Tariq Alsalem](https://github.com/ShadierPond)
-- **Programmer:** [Anastasia Naumann](https://github.com/ElPatronWhizzKey)
-- **Programmer:** David Einenkel
-- **Programmer:** Sven Bräumer
+- **Programmer / Artist:** [Tariq Alsalem](https://github.com/ShadierPond)
+- **Programmer / Artist:** [Anastasia Naumann](https://github.com/ElPatronWhizzKey)
+- **Programmer / Artist:** David Einenkel
+- **Programmer / Artist:** Sven Bräumer
