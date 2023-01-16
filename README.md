@@ -33,6 +33,7 @@ There are a few oxygen tanks on the map, with which he can refresh his oxygen su
 His enemies are cunning, moving fast and unpredictably. Some react to him and take up the chase. Sid can defend himself with his pistol and shoot at his enemies.
 
 The tile with the lightbulb on it causes the restricted view to be lifted for a few seconds. If the light bulb has already been used, it is no longer yellow but gray.
+
 ![alt text](blob/Bild3.png)
 
  A pre-game menu that gives access to a dedicated map editor, allowing players to implement their own creative ideas.
