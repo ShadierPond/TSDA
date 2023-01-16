@@ -56,3 +56,6 @@ You have to activate certain screens (terminals) by pressing the “E” key.
 
  In the given time, you should activate all green platforms on the ground to open the door to the next level. 
  ![alt text](blob/Bild8.png)
+
+## Credits
+- **Programmer:** [Sandro Herberich](https://github.com/Cur1o)
