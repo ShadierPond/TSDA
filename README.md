@@ -50,7 +50,6 @@ And here is a snippet of the player's sprite.
 ![alt text](blob/Bild6.png)
 
 ## Level Design
-<!--> add a list of level design <!-->
 
 You have to activate certain screens (terminals) by pressing the “E” key.
 ![alt text](blob/Bild7.png)
