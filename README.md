@@ -1,4 +1,2 @@
 # TSDA
-
-## Game Genre
-    Beat ’em up, shooter
+![alt text](blob/Bild1.png)
