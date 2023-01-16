@@ -42,9 +42,11 @@ The tile with the lightbulb on it causes the restricted view to be lifted for a 
 The game is scalable, meaning it can be played in windowed mode or full screen. There are different tiles, which also react differently to the player. For example, switches are pressed, items are collected. He stops at walls. He can run into them or open doors by pressing switches. The player and the aliens can run diagonally and attack/shoot, which can be done by pressing 2 buttons at the same time.
 
 The weapon can overheat, so shoot with caution should.
+
 ![alt text](blob/Bild5.png)
 
 And here is a snippet of the player's sprite.
+
 ![alt text](blob/Bild6.png)
 
 ## Level Design
