@@ -11,9 +11,9 @@ FSK 12
 Website
 
 ## Controls
-- WASD or Arrow Keys: Movement
-- Space: Shoot
-- E: Interact
+- **WASD or Arrow Keys:** Movement
+- **Space:** Shoot
+- **E:** Interact
 
 ## Hints
 
